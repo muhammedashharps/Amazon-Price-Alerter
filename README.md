@@ -44,4 +44,3 @@ This project allows you to track the prices of selected products on Amazon using
 
 ---
 
-This README provides an overview of the project, explains the purpose of the files, and offers options for automating the project both online and on a local machine using Windows Task Scheduler. Users can choose the method that best suits their needs.
