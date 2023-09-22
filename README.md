@@ -40,7 +40,10 @@ This project allows you to track the prices of selected products on Amazon using
 - Make sure to provide your email credentials in the main.py file and also select the reciever mail (By Default, It is mine)
 - Generate App Passwords and only they should be used as email credentials for safety reasons, (Research more about app passwords)
 
-**Thank You For Using Our Script**
+**Thank You For Using Our Scrip!
+[Screenshot (32)](https://github.com/muhammedashharps/Amazon-Price-Alerter/assets/144307824/a6ee57d8-b707-4bcf-b228-709cd47e9be6)
+t**
 
 ---
+
 
